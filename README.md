@@ -7,6 +7,7 @@ A visually immersive and performance-optimized **eSports website** built with **
 ## 🌐 Live Website
 
 🔗 Visit: [https://www.bspesports.com](https://www.bspesports.com)
+🔗 if link not working: [https://bspesports.netlify.app/](https://bspesports.netlify.app/)
 
 ---
 
