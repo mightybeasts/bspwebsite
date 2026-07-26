@@ -1,5 +1,5 @@
 import React from 'react'
-import Digitalrecruit from '../components/digitalrecruit'
+import Digitalrecruit from '../components/Digitalrecruit'
 
 function DigitalrecruitPage() {
   return (
